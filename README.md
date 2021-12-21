@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+## 📚 Stack 📚
+
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -22,12 +25,12 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logo color=white">
 
-| `default` ![default][default] | `dark` ![dark][dark] | `radical` ![radical][radical] |
+<!-- | `default` ![default][default] | `dark` ![dark][dark] | `radical` ![radical][radical] |
 
 | `default_repocard` ![default_repocard][default_repocard_repo] | `dark` ![dark][dark_repo] | `radical` ![radical][radical_repo] |
 
 [default]: https://github-readme-stats.vercel.app/api?cooco01=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
 
-[default_repo]: https://github-readme-stats.vercel.app/api/pin/?cooco01=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
+[default_repo]: https://github-readme-stats.vercel.app/api/pin/?cooco01=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default -->
 
 <!--https://github-readme-stats.vercel.app/api?cooco01=anuraghazra&theme=dark&show_icons=true -->
