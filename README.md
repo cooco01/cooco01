@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logo color=white">
 
-![cooco01 GitHub stats](https://github-readme-stats.vercel.app/api?cooco01=anuraghazra&theme=dark&show_icons=true)
+https://github-readme-stats.vercel.app/api?cooco01=anuraghazra&theme=dark&show_icons=true
